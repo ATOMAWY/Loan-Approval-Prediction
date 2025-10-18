@@ -76,8 +76,3 @@ The Random Forest model with SMOTE achieves the best balance between precision a
 - Better F1-score overall
 - Comprehensive model comparison visualizations
 
-## 📝 License
-This project is open source and available under the MIT License.
-
-## 👤 Author
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
